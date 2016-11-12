@@ -1,0 +1,1 @@
+#This exercise calls for a function that takes a string and returns an object with each letter in the string as a key and the number of times that letter occurs in the string as the corresponding value.
