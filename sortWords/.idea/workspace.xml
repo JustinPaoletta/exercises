@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a1fe5d5-14ca-453b-9413-4fa40974b930" name="Default" comment="" />
-    <ignored path="isPalindrome.iws" />
+    <list default="true" id="7aff4740-bd0f-434c-b07c-6858c1462fe3" name="Default" comment="" />
+    <ignored path="sortWords.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,15 +19,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="isPalindrome" />
+    <favorites_list name="sortWords" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="isPalindrome.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/isPalindrome.js">
+      <file leaf-file-name="sortWords.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sortWords.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="45">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -45,7 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/isPalindrome.js" />
+        <option value="$PROJECT_DIR$/sortWords.js" />
       </list>
     </option>
   </component>
@@ -91,17 +91,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="isPalindrome" />
+              <option name="myItemId" value="sortWords" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="isPalindrome" />
+              <option name="myItemId" value="sortWords" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="isPalindrome" />
+              <option name="myItemId" value="sortWords" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -168,17 +168,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a1fe5d5-14ca-453b-9413-4fa40974b930" name="Default" comment="" />
-      <created>1478987352884</created>
+      <changelist id="7aff4740-bd0f-434c-b07c-6858c1462fe3" name="Default" comment="" />
+      <created>1478989392104</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1478987352884</updated>
-      <workItem from="1478987354560" duration="552000" />
+      <updated>1478989392104</updated>
+      <workItem from="1478989393192" duration="400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="552000" />
+    <option name="totallyTimeSpent" value="400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="143" y="23" width="1173" height="840" extended-state="0" />
@@ -218,10 +218,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/isPalindrome.js">
+    <entry file="file://$PROJECT_DIR$/sortWords.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
           <folding />
         </state>
       </provider>
