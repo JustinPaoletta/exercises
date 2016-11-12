@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbc3a8f6-4111-4461-8beb-bcd71ab14dfa" name="Default" comment="" />
-    <ignored path="fizzbuzz.iws" />
+    <list default="true" id="ee315d00-e58e-44b3-8e28-9f96a840e0c7" name="Default" comment="" />
+    <ignored path="charCount.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,12 +19,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="fizzbuzz" />
+    <favorites_list name="charCount" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fizzbuzz.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fizzbuzz.js">
+      <file leaf-file-name="charCount.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/charCount.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
@@ -45,7 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fizzbuzz.js" />
+        <option value="$PROJECT_DIR$/charCount.js" />
       </list>
     </option>
   </component>
@@ -86,27 +86,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fizzbuzz" />
+              <option name="myItemId" value="charCount" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fizzbuzz" />
+              <option name="myItemId" value="charCount" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fizzbuzz" />
+              <option name="myItemId" value="charCount" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -168,17 +168,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dbc3a8f6-4111-4461-8beb-bcd71ab14dfa" name="Default" comment="" />
-      <created>1478921700906</created>
+      <changelist id="ee315d00-e58e-44b3-8e28-9f96a840e0c7" name="Default" comment="" />
+      <created>1478923014146</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1478921700906</updated>
-      <workItem from="1478921701983" duration="870000" />
+      <updated>1478923014146</updated>
+      <workItem from="1478923015224" duration="523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="870000" />
+    <option name="totallyTimeSpent" value="523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="143" y="23" width="1173" height="840" extended-state="0" />
@@ -218,7 +218,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fizzbuzz.js">
+    <entry file="file://$PROJECT_DIR$/charCount.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
