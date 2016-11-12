@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0773d95-8d20-4560-8b4f-283e7054fca3" name="Default" comment="" />
-    <ignored path="reverse.iws" />
+    <list default="true" id="fcb67efe-fbf4-48e6-aab6-59d0e4c5bc9e" name="Default" comment="" />
+    <ignored path="capitalizeFirst.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,15 +19,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="reverse" />
+    <favorites_list name="capitalizeFirst" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="reverse.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reverse.js">
+      <file leaf-file-name="capitalizeFirst.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/capitalizeFirst.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="90">
+              <caret line="6" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -45,7 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/reverse.js" />
+        <option value="$PROJECT_DIR$/capitalizeFirst.js" />
       </list>
     </option>
   </component>
@@ -87,27 +87,27 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="reverse" />
+              <option name="myItemId" value="capitalizeFirst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="reverse" />
+              <option name="myItemId" value="capitalizeFirst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="reverse" />
+              <option name="myItemId" value="capitalizeFirst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,17 +168,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0773d95-8d20-4560-8b4f-283e7054fca3" name="Default" comment="" />
-      <created>1478920255549</created>
+      <changelist id="fcb67efe-fbf4-48e6-aab6-59d0e4c5bc9e" name="Default" comment="" />
+      <created>1478920686479</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1478920255549</updated>
-      <workItem from="1478920256670" duration="264000" />
+      <updated>1478920686479</updated>
+      <workItem from="1478920687575" duration="535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264000" />
+    <option name="totallyTimeSpent" value="535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="143" y="23" width="1173" height="840" extended-state="0" />
@@ -218,10 +218,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/reverse.js">
+    <entry file="file://$PROJECT_DIR$/capitalizeFirst.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="2" />
           <folding />
         </state>
       </provider>
