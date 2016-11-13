@@ -21,6 +21,7 @@ document.getElementById('email').addEventListener('keyup', function() {
 
 document.getElementById('clear').addEventListener('click', function() {
     localStorage.removeItem('email');
-    document.getElementById('email').placeholder = 'Email';
     document.getElementById('email').value = '';
+    document.getElementById('email').placeholder = 'Email';
+    window.location.reload()
 });
