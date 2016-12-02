@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!--Native stylesheet reference-->
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body ng-app="timer" ng-controller="timerController">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12 app-wrapper">
+            <form>
+                <h1 id="count-display"></h1>
+                <progress id="prog" max="100" value="100"></progress><br>
+                <input type="number" id="num">
+                <select id="timeUnit">
+                    <option value="s">Seconds</option>
+                </select>
+                <button ng-click="startTimer()">Start</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.0-rc.2/angular.min.js"></script>
+
+<script src="scripts/script.js"></script>
+</body>
+</html>
