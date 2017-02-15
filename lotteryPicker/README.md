@@ -1,0 +1,1 @@
+This exercise calls for a function that creates a series of random numbers based on passed arguments.
