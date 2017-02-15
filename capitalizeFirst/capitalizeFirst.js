@@ -13,3 +13,6 @@ var capitalizeFirst = function(str) {
     });
     return holder.join('')
 };
+
+
+capitalizeFirst('michael montgomery');
